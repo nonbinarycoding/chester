@@ -2,23 +2,13 @@
 
 CatBot is an incredibly simple Discord bot.  You send it the command '+meow' and it returns a random joke about cats.  That's it.
 
-This bot is running and is public, but I thought I'd share the code for anyone looking for an example of how to write a bot that returns a random line of a text file to a Discord channel.
-
 
 ## Requirements
-
-To run the existing public bot, you don't need anything but admin level access to a Discord server and a web browser.
 
 To run the bot code on your system, you'll need node.js and npm.
 
 
 ## Installation
-
-### Public bot 
-While logged into Discord, go to: 
-https://discordapp.com/api/oauth2/authorize?client_id=686054770141692080&permissions=2048&scope=bot
-
-Choose your server and authorize the bot.
 
 ### Running the code yourself
 
