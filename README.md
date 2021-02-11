@@ -2,6 +2,9 @@
 
 CatBot is an incredibly simple Discord bot.  You send it the command '+meow' and it returns a random joke about cats.  That's it.
 
+## Using the public bot
+
+If you want to invite CatBot to your existing server, just point your browser at https://discord.com/oauth2/authorize?client_id=686054770141692080&scope=bot .
 
 ## Requirements
 
