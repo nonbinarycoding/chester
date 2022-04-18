@@ -4,7 +4,7 @@ Chester, previously known as CatBot, is an incredibly simple Discord bot.  You s
 
 ## Using the public bot
 
-If you want to invite Chester to your existing server, just point your browser at https://discord.com/oauth2/authorize?client_id=686054770141692080&scope=bot .
+If you want to invite Chester to your existing server, just point your browser at https://discord.com/oauth2/authorize?client_id=686054770141692080&scope=bot&permissions=2147503104 .
 
 ## Usage
 
